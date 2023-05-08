@@ -1,5 +1,5 @@
 # Leukemia_Diagnosis_Application
-an Android-base application for diagnosing and prediction Leukemia subtypes with take the advantage of Deep Learning and Image Processing techniques.
+an Android-base application for diagnosing and predicting Leukemia subtypes with take advantage of Deep Learning and Image Processing techniques.
 
 - Note: This repository is reserved for further information and codes.
 
