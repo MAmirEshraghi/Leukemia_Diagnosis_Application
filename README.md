@@ -14,3 +14,4 @@ this repository is reserved for further information and codes
 # Editting options:
 
 ![XRecorder_08052023_154037](https://user-images.githubusercontent.com/92205834/236821979-2e96be01-9410-4186-b120-ed2171d7016b.gif)
+![asdf](https://user-images.githubusercontent.com/92205834/236824103-248db09d-296f-4239-aba1-14049469657a.gif)
