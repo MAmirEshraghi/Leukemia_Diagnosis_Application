@@ -2,6 +2,7 @@
 an Android-base application for diagnosing and predicting Leukemia subtypes with take advantage of Deep Learning and Image Processing techniques.
 
 - Note: This repository is reserved for further information and codes, and this NOT complete yet.
+- Note: The proposal of this Application was submitted to International Congress of Artificial Intelligence in Medical Science (AIMS), Kish Island, 17-19 May 2023. 
 
 # overall view:
 
