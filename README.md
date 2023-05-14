@@ -7,7 +7,7 @@ an Android-based application for diagnosing and predicting Leukemia subtypes wit
 
 # Dataset samples:
 
-![Uploading Untitled.png…]()
+![Untitled](https![Untitled](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/d0fa4fb1-0c69-4510-b7a9-fd4770f4a863)
 
 # overall view:
 
