@@ -5,6 +5,10 @@ an Android-based application for diagnosing and predicting Leukemia subtypes wit
 - Note: The Research Proposal of this innovative Application was submitted to the International Congress of Artificial Intelligence in Medical Science (AIMS), Kish Island, 17-19 May 2023.
 
 
+# Dataset samples:
+
+![Uploading Untitled.png…]()
+
 # overall view:
 
 ![S2creenshot_20230508-132237_blood-V13-cropp-java](https://user-images.githubusercontent.com/92205834/236801125-8c18a2fd-7be7-4f2e-882d-08800a739f54.jpg)
