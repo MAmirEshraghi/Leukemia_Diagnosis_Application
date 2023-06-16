@@ -7,9 +7,11 @@ an Android-based application for diagnosing and predicting Leukemia subtypes wit
 # Summary:
 
 - Practical Objectives:
+  
 The objective of this project is to design an Android application based on a spectrum of artificial intelligence algorithms for educational purposes targeting doctoral students in hematology. The application aims to assist users in the clinical diagnosis of blood cancer and the evaluation of laboratory personnel.
 
 - Research Type:
+  
 The research project falls under the applied category and involves the development of equipment in a research production line. The study primarily focuses on clinical sciences.
 
 - Introduction:
