@@ -48,7 +48,7 @@ In this research, for the first time, a collection of deep learning algorithms w
 - References:
 
   
-[1] American Cancer Society. https://www.cancer.org. Accessed January ۲۵.
+[1] American Cancer Society. https://www.cancer.org. Accessed January 25.
 
 [2] Rizzo JD, Brouwers M, Hurley P, Seidenfeld J, Arcasoy MO, Spivak JL, et al. American Society of Hematology/American Society of Clinical Oncology clinical practice guideline update on the use of epoetin and darbepoetin in adult patients with cancer. Blood. 
 
