@@ -12,8 +12,6 @@ an Android-based application for diagnosing and predicting Leukemia subtypes wit
 # overall view:
 ![02](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/c70c5612-4245-4d13-9516-0b798bc2ee02)
 
-![0334](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/3e21478a-41a7-4503-ad8d-b1f222c82f25)
-
 
 # Camera view:
 - please wait to complete the gif loading.
