@@ -2,7 +2,15 @@
 an Android-based application for diagnosing and predicting Leukemia subtypes that use Deep Learning and Image Processing techniques.
 
 - Note: This is a preview of the Test version. The Final version is being designed and will be updated soon. This repository is reserved for code and further information.
-- Note: The Research Proposal of this innovative Application was submitted to the International Congress of Artificial Intelligence in Medical Science (AIMS), Kish Island, 2023.
+- Note: The Research Proposal of this innovative Application was accepted for an awarded research grant at Smart University of Medical Science (SUMS), Iran. (Oct. 2023)
+
+# Overall Overview:
+
+![LDA_OV](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/1794a148-2b24-4f6e-b2e0-e746683b68ed)
+
+# R&D Process:
+![LDA](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/81183d8c-3539-427c-b8ad-d6c0ba55a330)
+
 
 # Summary:
 
