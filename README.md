@@ -9,7 +9,7 @@ an Android-based application for diagnosing and predicting Leukemia subtypes tha
 ![LDA_OV](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/1794a148-2b24-4f6e-b2e0-e746683b68ed)
 
 # R&D Process:
-![LDA](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/81183d8c-3539-427c-b8ad-d6c0ba55a330)
+![LDA](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/9dd8d252-704e-4a70-ad48-bf8e70c98a09)
 
 
 # Summary:
